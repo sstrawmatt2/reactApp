@@ -41,6 +41,20 @@ body {
   font-family: inherit;
 }
 
+.square{
+  display: flex;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+.circle {
+  display: flex;
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  border-radius: 50%;
+}
+
 .btn:focus {
   outline: none;
 }
