@@ -16,7 +16,7 @@ const name = 'Sean'
     //<div class="square">
     //  <p class="text">square text</p>
     //</div>
-    <div class="circle">
+    <div class="circle" div class="square">
       <p class="text">circle text</p>
     </div>
 
