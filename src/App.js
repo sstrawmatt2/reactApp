@@ -9,7 +9,7 @@ const name = 'Sean'
 
   return (
     <div className="App">
-      <Header/>
+      <Header />
     </div>
   );
 }
