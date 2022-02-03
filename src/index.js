@@ -8,7 +8,12 @@ ReactDOM.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>,
+  <div class="square">
+    <p class="text">Square Text</p>
+  </div>,
   document.getElementById('root')
+
+  
   
 );
 

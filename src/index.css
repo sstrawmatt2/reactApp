@@ -54,6 +54,13 @@ body {
   width: 100%;
 }
 
+.square{
+  display: flex;
+  width: 10px;
+  height: 10px;
+  background-color: red;
+}
+
 .task {
   background: #f4f4f4;
   margin: 5px;
