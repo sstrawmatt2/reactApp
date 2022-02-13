@@ -24,7 +24,7 @@ const name = 'Sean'
     {/* in the header.js file in components, is where I have configured all the buttons to be showing up.
     We are calling the header component and everything is already inside of it.  */}
       <Header />
-      Home
+      Home Page 
       <div class="square">
         <p class="text">square text</p>
       </div>
