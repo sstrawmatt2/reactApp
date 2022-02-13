@@ -4,6 +4,7 @@ import './index.css';
 import Header from './components/Header';
 import Home from './components/Home';
 
+
 function App() {
 
 const name = 'Sean'
@@ -27,6 +28,10 @@ const name = 'Sean'
       Home Page 
       <div class="square">
         <p class="text">square text</p>
+        
+      </div>
+      <div>
+        <Button onClick={App} console.log(Math.floor(100000 + Math.random() * 900000));
       </div>
 
     </div>
